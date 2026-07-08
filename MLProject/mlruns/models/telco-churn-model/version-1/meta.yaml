@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1783500062974
+current_stage: None
+description: ''
+last_updated_timestamp: 1783500062974
+name: telco-churn-model
+run_id: 46ea1083044a4381a6f7ed49e68e921b
+run_link: ''
+source: file:///C:/Users/Vanessa/Downloads/Workflow-CI/MLProject/mlruns/156971856708501988/46ea1083044a4381a6f7ed49e68e921b/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Vanessa/Downloads/Workflow-CI/MLProject/mlruns/156971856708501988/46ea1083044a4381a6f7ed49e68e921b/artifacts/model
+user_id: null
+version: 1
