@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vanessa/Downloads/Workflow-CI/MLProject/mlruns/0/7132e9d766654776b7ef4b9936e5a521/artifacts
+end_time: 1783443154041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7132e9d766654776b7ef4b9936e5a521
+run_name: burly-cub-725
+run_uuid: 7132e9d766654776b7ef4b9936e5a521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783443126919
+status: 3
+tags: []
+user_id: Vanessa

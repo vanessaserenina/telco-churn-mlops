@@ -1,0 +1,9 @@
+name: telco_churn_ci
+
+conda_env: conda.yml
+
+entry_points:
+  main:
+    parameters:
+      data_dir: {type: str, default: "Telco-Customer-Churn_preprocessing"}
+    command: "python modelling.py --data_dir {data_dir}"

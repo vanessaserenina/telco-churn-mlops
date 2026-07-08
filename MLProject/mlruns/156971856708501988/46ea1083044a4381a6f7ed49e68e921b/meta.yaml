@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vanessa/Downloads/Workflow-CI/MLProject/mlruns/156971856708501988/46ea1083044a4381a6f7ed49e68e921b/artifacts
+end_time: 1783441263237
+entry_point_name: ''
+experiment_id: '156971856708501988'
+lifecycle_stage: active
+run_id: 46ea1083044a4381a6f7ed49e68e921b
+run_name: RandomForest_baseline
+run_uuid: 46ea1083044a4381a6f7ed49e68e921b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783441233426
+status: 3
+tags: []
+user_id: Vanessa

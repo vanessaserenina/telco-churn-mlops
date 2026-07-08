@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vanessa/Downloads/Workflow-CI/MLProject/mlruns/0/aef4dfceea344dbc89c79a9347bdd7e0/artifacts
+end_time: 1783442908255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aef4dfceea344dbc89c79a9347bdd7e0
+run_name: mysterious-colt-63
+run_uuid: aef4dfceea344dbc89c79a9347bdd7e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783442489133
+status: 4
+tags: []
+user_id: Vanessa

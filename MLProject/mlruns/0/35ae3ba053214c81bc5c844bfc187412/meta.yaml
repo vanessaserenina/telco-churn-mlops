@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vanessa/Downloads/Workflow-CI/MLProject/mlruns/0/35ae3ba053214c81bc5c844bfc187412/artifacts
+end_time: 1783441809195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35ae3ba053214c81bc5c844bfc187412
+run_name: amazing-stag-95
+run_uuid: 35ae3ba053214c81bc5c844bfc187412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783441530731
+status: 4
+tags: []
+user_id: Vanessa

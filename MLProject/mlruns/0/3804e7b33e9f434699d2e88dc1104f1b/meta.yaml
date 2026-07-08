@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vanessa/Downloads/Workflow-CI/MLProject/mlruns/0/3804e7b33e9f434699d2e88dc1104f1b/artifacts
+end_time: 1783442290967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3804e7b33e9f434699d2e88dc1104f1b
+run_name: hilarious-bear-508
+run_uuid: 3804e7b33e9f434699d2e88dc1104f1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783442031996
+status: 4
+tags: []
+user_id: Vanessa
