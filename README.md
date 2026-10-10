@@ -1,6 +1,6 @@
 # Telco Customer Churn MLOps
 
-A small end-to-end machine-learning project that predicts whether a telecom customer will churn. It covers data preparation in a notebook, model training with a scikit-learn Random Forest, experiment tracking and model registration with MLflow, an MLflow Project definition, a Dockerfile, and a GitHub Actions workflow for retraining.
+An end-to-end machine-learning project that predicts whether a telecom customer will churn. It covers data preparation in a notebook, model training with a scikit-learn Random Forest, experiment tracking and model registration with MLflow, an MLflow Project definition, a Dockerfile, and a GitHub Actions workflow for retraining.
 
 ## Table of Contents
 
